@@ -1,11 +1,9 @@
-# Cubiomes Viewer
+# Cubiomes Viewer updated for 26.2 and compiled
 
 Cubiomes Viewer provides a graphical interface for the efficient and flexible
 seed-finding utilities provided by [cubiomes](https://github.com/Cubitect/cubiomes)
 and a map viewer for the Minecraft biomes and structure generation.
 
-The tool is designed for high performance and supports Minecraft Java Edition
-main releases up to 1.21.
 
 
 ## Download
