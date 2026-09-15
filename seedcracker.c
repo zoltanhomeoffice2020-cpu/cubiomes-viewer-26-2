@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    printf("Seed cracker OK!\n");
+    printf("Seed cracker READY!\n");
     return 0;
 }
