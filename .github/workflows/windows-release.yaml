@@ -38,7 +38,7 @@ jobs:
           archives:     'x86_64 qtbase qttools'
           cache:        true
           setup-python: false 
-                - name: Build seedcracker
+        - name: Build seedcracker
         working-directory: ${{env.SOURCE_DIR}}
         run: gcc seedcracker.c cubiomes/*.c -O3 -o seedcracker.exe
       - name: Build
